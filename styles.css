@@ -1,0 +1,145 @@
+p{
+    color: grey;
+    }
+    h3{
+        color: #fff;
+    }
+    h6{
+        color: #fff;
+    }
+    hr{
+        color:#fff;
+    }
+
+    
+    .food{
+        width:100%;
+
+    }
+    .col{
+        text-align: left;
+    }
+    .upper{
+    
+            width: 100%;
+            text-decoration: none;
+            cursor: pointer;
+            display: inline-block;
+            text-align: center;
+            border: none;
+            line-height: 50px;
+            font-size: 14px;
+            height: 50px;
+            padding: 0 2rem;
+            color: #000;
+            letter-spacing: 0;
+            color: #fff;
+            background-color: #000;
+            /* box-shadow: 0 1px 3px 0 rgb(0 0 0 / 12%); */
+            font-size: 16px;
+            font-weight: 600;
+            height: 40px;
+            line-height: 40px;
+            width: auto;
+        }
+    .lower{
+        width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    height: 50px;
+    padding: 0 2rem;
+    color: #000;
+    letter-spacing: 0;
+
+
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 12%);
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    width: auto;
+    }
+
+    .loc{
+        margin: 20px 10px;
+    }
+    
+    .swiggy-logo{
+        width: 40%;
+        
+    }
+    /* #carouselExampleSlidesOnly{
+        padding: 7% 15%;
+        /* text-align: left; */
+    
+   
+    /* second-section */
+    
+    #second{
+    
+            
+            text-align: center;
+            background-color: #362706;
+            padding: 30px;
+        
+    }
+    
+    
+    .second-img{
+    margin: 10px;
+    height: 300px;
+    }
+
+    /* third-section */
+
+    #third{
+
+    }
+    .store{
+        width: 40%;
+    }
+    .img-fluid{
+        width: 80%;
+    }
+
+    /* FOURTH-SECTION */
+
+    #fourth{
+        text-align: center;
+            background-color: black;
+            
+    }
+    .four{
+        width: 40%;
+        margin-top: 40px;
+    }
+
+    /* fifth-section */
+    #fifth{
+        text-align: center;
+            background-color: black;
+            padding: 30px;
+        
+    }
+/* sixth-section */
+
+#sixth{
+    text-align: center;
+            background-color: black;
+            padding: 30px;
+        
+}
+
+.six{
+    width: 40%;
+        margin-top: 40px;
+}
+
+.icon{
+    width: 7%;
+}
